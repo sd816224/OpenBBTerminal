@@ -1,4 +1,4 @@
-# Building Installers
+# Building Installers!!!!!!!!!!!!!!!!!!!!!!
 This guide serves to assist developers construct OpenBB Terminal installers on MacOs and Windows.
 
 ## Overview
@@ -23,7 +23,7 @@ In this section we detail the steps necessary to construct an installer locally 
 4. (Optional) `/Full/Path/To/OpenBB\ Terminal/.OpenBB/OpenBBTerminal /Full/Path/To/OpenBBTerminal/OpenBBTerminal/scripts/*.openbb -t`
 
     This runs integration tests on your newly created installer.
-
+dfsadfasdfasdfasdfasdfasdfadsfasdfasdfasdfasdfadsfdfadsf
 ### Windows Steps
 1. `poetry install -E installer`
 
